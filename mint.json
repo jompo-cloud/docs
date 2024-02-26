@@ -25,7 +25,8 @@
     {
       "group": "Valdymo sistemos",
       "pages": [
-        "panel/zaidimu-panel"
+        "panel/zaidimu-panel",
+        "panel/vps-panel"
       ]
     }
   ],
