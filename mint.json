@@ -17,17 +17,17 @@
   },
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Minecraft Hostingas",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "FXServer Hostingas",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
+      "name": "VPS Hostingas",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
