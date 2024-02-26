@@ -19,9 +19,7 @@
     {
       "group": "Valdymo sistemos",
       "pages": [
-        "game-panel/pradzia",
-        "quickstart",
-        "development"
+        "game-panel/pradzia"
       ]
     }
   ],
