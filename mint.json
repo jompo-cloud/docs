@@ -17,9 +17,15 @@
   },
   "navigation": [
     {
+      "group": "Pradžia",
+      "pages": [
+        "pradzia"
+      ]
+    },
+    {
       "group": "Valdymo sistemos",
       "pages": [
-        "game-panel/pradzia"
+        "panel/zaidimu-panel"
       ]
     }
   ],
