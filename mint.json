@@ -17,6 +17,11 @@
   },
   "anchors": [
     {
+      "name": "Serverių valdymo sistema",
+      "icon": "book-open-cover",
+      "url": "https://mintlify.com/docs"
+    },
+    {
       "name": "Minecraft Hostingas",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
